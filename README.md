@@ -1,8 +1,8 @@
 # GRPO-CoT: Structure-Aware Reinforcement Learning on Qwen2.5-3B (in the spirit of DeepSeek)
 
 Pretrained checkpoints are available on Hugging Face:
-• **Merged 16-bit (drop-in Transformers):** [srikar-v05/Qwen2.5-3B-GRPO-16bit](https://huggingface.co/srikar-v05/Qwen2.5-3B-GRPO-16bit)
-• **LoRA adapters (PEFT/composable):** [srikar-v05/Qwen2.5-3B-GRPO-LoRA](https://huggingface.co/srikar-v05/Qwen2.5-3B-GRPO-LoRA)
+- **Merged 16-bit (drop-in Transformers):** [srikar-v05/Qwen2.5-3B-GRPO-16bit](https://huggingface.co/srikar-v05/Qwen2.5-3B-GRPO-16bit)
+- **LoRA adapters (PEFT/composable):** [srikar-v05/Qwen2.5-3B-GRPO-LoRA](https://huggingface.co/srikar-v05/Qwen2.5-3B-GRPO-LoRA)
 Both variants were trained with GRPO on GSM8K using an XML reasoning schema, in the spirit of DeepSeek’s GRPO-based reasoning training.
 
 
