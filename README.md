@@ -1,6 +1,6 @@
 # GRPO-CoT: Structure-Aware Reinforcement Learning on Qwen2.5-3B (in the spirit of DeepSeek)
 
-⚠️ Github is having problems opening the ipynb file. Please refer to this [Kaggle Notebook](https://www.kaggle.com/code/srikarveluvali/qwen2-5-3b-grpo) for the training notebook. Thanks!
+⚠️ Github is having problems opening the ipynb file. Please refer to this [Colab Notebook](https://colab.research.google.com/drive/16_a8PqpYWOpq6oZHfo2FhzkX7QkJVBO9?usp=sharing) for the training notebook. Thanks!
 
 
 Pretrained checkpoints are available on Hugging Face:
